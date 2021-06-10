@@ -1,8 +1,5 @@
 import "./landing.styles.scss";
 
-const LandingPage = () => 
-<div className="sign-in-and-sign-up">
-
-</div>;
+const LandingPage = () => <div>HOLA</div>;
 
 export default LandingPage;
